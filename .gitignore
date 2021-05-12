@@ -1,0 +1,47 @@
+# Environments
+
+.env
+.venv
+.idea/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# prerequisite
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.slo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Compiled Static Libraries
+*.lib
+*.a
+*.la
+*.lo
+
